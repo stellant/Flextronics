@@ -1,0 +1,5 @@
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.pdb
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.pdb
+C:\Users\TH303898\Documents\Visual Studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.csprojResolveAssemblyReference.cache
